@@ -205,7 +205,7 @@ expect是用于处理交互的，能够实现自动化完成，特别是在一�
   	expect {
   	\"yes/no\"  {send \"yes\r\"; exp_continue}
   	\"password:\" {send \"$USER_ROOT_PWD\r\";}
-  }
+  	}
   	sleep 1
   	send \"if id $USER_NAME;\r\"
   	send \"then echo the $USER_NAME is exists...\r\"
