@@ -1,8 +1,8 @@
 ---
-title: Liunx驱动学习
+title: Liunx字符设备驱动学习
 date: 2017-09-16
 categories: 
-tags: [linux,驱动,tag3] 
+tags: [linux,驱动] 
 toc: true
 ---
 
